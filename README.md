@@ -1,2 +1,2 @@
-# dio-trilha-forma-o-java
+# dio-trilha-formacao-java
 Repositório dos exercicios e exemplos da formação Java Dev da Dio
